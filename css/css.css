@@ -5,6 +5,8 @@ header{
   display: flex;
   color: rgb(255, 255, 255); 
   align-items: flex-end;
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 body{
@@ -20,6 +22,7 @@ footer{
   padding: 15px 55px;
   font-size: 20px;
   background-color:rgb(104, 0, 145); 
+  max-width: 1024px;
 }
 section img{
 width: 70%;
